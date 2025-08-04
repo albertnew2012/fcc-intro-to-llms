@@ -9,3 +9,5 @@ openwebtext
 output_train.txt
 output_val.txt
 tokenizer_training.txt
+**/*.pth
+runs
